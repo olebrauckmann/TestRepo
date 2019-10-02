@@ -9,4 +9,4 @@ b=2
 print(a+b)
 
 ## EOF
-print("This is stuff after EOF")
+print(" This is more stuff after EOF")
