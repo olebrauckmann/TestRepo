@@ -1,2 +1,3 @@
 # add a file header
-This is the file content
+string  = "his is the file content"
+print(string)
