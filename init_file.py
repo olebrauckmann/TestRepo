@@ -8,5 +8,6 @@ a=1
 b=2
 print(a+b)
 
+print("removed last line")
 ## EOF
-print(" This is more stuff after EOF")
+
